@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #f8fff2;
+  color: #333;
+}
+header {
+  background: #228B22;
+  color: white;
+  padding: 1.5em;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 1em;
+  text-decoration: none;
+}
+main {
+  padding: 2em;
+}
+section {
+  margin-bottom: 2em;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  padding: 0.5em 0;
+}
+footer {
+  background: #ccc;
+  text-align: center;
+  padding: 1em;
+}
+.pay-btn {
+  display: inline-block;
+  background: #00c4cc;
+  color: white;
+  padding: 0.75em 1.5em;
+  text-decoration: none;
+  border-radius: 8px;
+}
